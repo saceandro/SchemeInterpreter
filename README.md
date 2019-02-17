@@ -1,3 +1,3 @@
 # SchemeInterpreter
 
-Scheme interpreter written by Haskell.
+Simple scheme interpreter written by Haskell.
